@@ -1,0 +1,20 @@
+body { 
+  background: url('https://image.freepik.com/free-photo/arrangement-desk-elements-with-empty-notebook-grey-background_23-2148513263.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.tran
+{
+    
+        border: 5px solid rgba(0,0,0, 0.0);
+}
+.form_con
+{
+    background-color: #ccccff;
+}
+img.logo{
+  width: 2rem !important;
+  height: 2rem !important;
+}
